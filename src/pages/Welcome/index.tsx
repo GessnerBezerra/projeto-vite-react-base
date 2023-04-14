@@ -6,6 +6,9 @@ import viteLogo from '/assets/vite.svg';
 const Welcome: React.FC = () => {
 	return (
 		<div className="App">
+			<header>
+				<h1>Teste 11379</h1>
+			</header>
 			<div>
 				<a href="https://vitejs.dev" target="_blank" rel="noreferrer">
 					<img src={viteLogo} className="logo" alt="Vite logo" />
